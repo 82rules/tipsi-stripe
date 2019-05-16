@@ -5,12 +5,35 @@
 
 React Native Stripe binding for iOS/Android platforms
 
-## Changelog
-[[5.1.0] - 2018-03-28](/CHANGELOG.md)
+## Documentation
 
-[[5.0.0] - 2018-03-21 **Breaking changes**](/CHANGELOG.md)
+https://tipsi.github.io/tipsi-stripe/docs/index.html
+
+```sh
+# help us with docs!
+npm install docusaurus
+
+# to run docs locally
+npm run start-docs
+
+# and open http://localhost:3000/tipsi-stripe/docs/index.html
+
+# upgrade existing docs website in repo
+npm run build-docs
+```
+
+## Changelog
+
+[Full changelog](/CHANGELOG.md)
+
+[[7.0.0] - 2019-01-08 **Breaking changes**](/CHANGELOG.md#700---2019-01-08)
+
+[[6.0.0] - 2018-10-24 **Breaking changes**](/CHANGELOG.md#600---2018-10-24)
+
+[[5.0.0] - 2018-03-21 **Breaking changes**](/CHANGELOG.md#500---2018-03-21)
 
 ## Documentation
+
 https://tipsi.github.io/tipsi-stripe/
 
 ```sh
